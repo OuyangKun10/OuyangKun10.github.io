@@ -12,7 +12,7 @@ I'm an optimistic, confident, self-disciplined and hardworking 4th year undergra
 
 I am very fortunate to be advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/) from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/).
 
-In September 2024, I am going to study for a Ph.D. degree at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), MOE Key Laboratory of Computational Linguistics ([icl](http://icl.pku.edu.cn/)), [School of EECS](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/).
+In September 2024, I am going to study for a Ph.D. degree at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), MOE Key Laboratory of Computational Linguistics ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/).
 
 My research interests include NLP, LLM and multimodal learning.
 
