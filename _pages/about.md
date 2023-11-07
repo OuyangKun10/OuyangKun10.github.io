@@ -14,7 +14,7 @@ I am very fortunate to be advised by Prof. [Xuemeng Song](https://xuemengsong.gi
 
 In September 2024, I am going to study for a Ph.D. degree at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), MOE Key Laboratory of Computational Linguistics ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/).
 
-My research interests include NLP, LLM and multimodal learning.
+My research interests include NLP, LLM, quantitative finance and multimodal learning.
 
 I am looking for daily intern in NLP, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10@gmail.com.
 
