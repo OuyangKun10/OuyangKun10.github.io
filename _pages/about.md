@@ -18,5 +18,4 @@ My research interests include NLP, LLM, quantitative finance and multimodal lear
 
 I am looking for daily intern in NLP, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10@gmail.com.
 
-You can find my CV here [CV](../assets/CV.pdf)
 
