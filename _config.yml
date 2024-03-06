@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "OuyangKun"
-  avatar           : "profile.png"
-  bio              : "Optimistic, confident, self-disciplined and hardworking 3rd year undergraduates with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience."
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "Optimistic, confident, self-disciplined and hardworking 4th year undergraduates with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience."
+  location         : "Beijing Haidian"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Ienw52EAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
