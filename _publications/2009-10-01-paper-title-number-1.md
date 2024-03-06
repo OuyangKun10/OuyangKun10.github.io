@@ -2,8 +2,8 @@
 title: "Multi-source Semantic Graph-based Multimodal Sarcasm Explanation
 Generation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/ACL-2023
+excerpt: ''
 date: 2023-05-02
 paperurl: 'http://academicpages.github.io/files/TEAM.pdf'
 ---
