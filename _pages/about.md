@@ -16,6 +16,6 @@ In September 2024, I am going to study for a Ph.D. degree at Language Computing 
 
 My research interests include NLP, LLM, quantitative finance and multimodal learning.
 
-I am looking for research collaborations in the field of Multimodal NLP and Quantitative finance, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10@gmail.com.
+I am looking for research collaborations in the field of Multimodal NLP and Quantitative finance, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
 
 
