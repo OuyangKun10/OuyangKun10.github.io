@@ -40,20 +40,19 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 **Kun Ouyang**, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
   
-</div>
-</div>
 # 📝 Publications 
 
-<embed src="images/tmm_01.pdf" type="images/acl_2023.pdf" width="100%" height="500px">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEAM</div><img src='images/acl_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
-<embed src="images/tmm_01.pdf" type="images/tmm_01.pdf" width="100%" height="500px">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDGE</div><img src='images/tmm_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
 
 **Kun Ouyang**, Liqiang Jing, Xuemeng Song, Meng Liu, Yupeng Hu, Liqiang Nie
