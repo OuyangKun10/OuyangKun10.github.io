@@ -44,14 +44,14 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 </div>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_2023.pdf' alt="sym" width="100%"></div></div>
+<embed src="images/tmm_01.pdf" type="images/acl_2023.pdf" width="100%" height="500px">
 <div class='paper-box-text' markdown="1">
 
 [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/tmm_01.pdf' alt="sym" width="100%"></div></div>
+<embed src="images/tmm_01.pdf" type="images/tmm_01.pdf" width="100%" height="500px">
 <div class='paper-box-text' markdown="1">
   
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
