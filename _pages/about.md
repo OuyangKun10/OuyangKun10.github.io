@@ -35,8 +35,6 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 # 📝 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
 [PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](https://arxiv.org/pdf/2412.11906?)
 
@@ -46,13 +44,16 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 </div>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/tmm_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
 
 **Kun Ouyang**, Liqiang Jing, Xuemeng Song, Meng Liu, Yupeng Hu, Liqiang Nie
