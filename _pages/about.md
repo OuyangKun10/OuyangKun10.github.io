@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
 
 I'm an optimistic, confident, self-disciplined and hardworking 4th year undergraduates from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience.
 
@@ -18,4 +27,51 @@ My research interests include NLP, LLM, quantitative finance and multimodal lear
 
 I am looking for research collaborations in the field of Multimodal NLP and Quantitative finance, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
 
+
+
+# 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
+- *2023.05*: &nbsp;🎉🎉 One paper got accepted by ACL 2023 (main conference). 
+
+# 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](https://arxiv.org/pdf/2412.11906?)
+
+**Kun Ouyang**, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
+  
+</div>
+</div>
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
+
+Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
+
+[Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
+
+**Kun Ouyang**, Liqiang Jing, Xuemeng Song, Meng Liu, Yupeng Hu, Liqiang Nie
+
+
+</div>
+</div>
+
+
+# 🎖 Honors and Awards
+ Merit Graduate Student, Shandong University.
+
+# 📖 Educations
+- *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
+- *2020.09 - 2024.06*, Artificial Intelligence, School of Computer Science and Technology, Shandong University. 
+
+//# 💬 Invited Talks
+//- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+//- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+//# 💻 Internships
 
