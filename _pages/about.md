@@ -69,9 +69,5 @@ Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
 - *2020.09 - 2024.06*, Artificial Intelligence, School of Computer Science and Technology, Shandong University. 
 
-//# 💬 Invited Talks
-//- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-//- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-//# 💻 Internships
 
