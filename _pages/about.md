@@ -30,8 +30,8 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
-- *2023.05*: &nbsp;🎉🎉 One paper got accepted by ACL 2023 (main conference). 
+- *2024.12* &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
+- *2023.05* &nbsp;🎉🎉 One paper got accepted by ACL 2023 (main conference). 
 
 # 📝 Preprints
 
@@ -42,7 +42,6 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEAM</div><img src='images/acl_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
@@ -50,7 +49,6 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDGE</div><img src='images/tmm_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
