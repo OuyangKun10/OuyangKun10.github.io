@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am a Ph.D. candidate at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience, advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
+I am a Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience, advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
 
 My research interests include NLP, LLM, quantitative finance and multimodal learning.
 
