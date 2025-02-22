@@ -74,8 +74,8 @@ Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
 # 💻 Internships
 
-2023.10 - 2024.02, Mizuho Securities Co., Ltd.
+- *2023.10 - 2024.02*, Mizuho Securities Co., Ltd.
 
-2024-2025, Tencent AI lab.
+- *2024-2025*, Tencent AI lab.
 
 
