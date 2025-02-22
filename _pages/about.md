@@ -39,7 +39,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 **Kun Ouyang**, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
 
 
-Generative Frame Sampler for Long Video Understanding
+**Generative Frame Sampler for Long Video Understanding**
 
 Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, Xu Sun, Junnan Li
 
