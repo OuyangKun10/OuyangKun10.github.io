@@ -65,8 +65,6 @@ Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 </div>
 
 
-# 🎖 Honors and Awards
- Merit Graduate Student, Shandong University.
 
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
