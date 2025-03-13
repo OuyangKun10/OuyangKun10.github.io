@@ -43,7 +43,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, Xu Sun, Junnan Li
 
-TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment
+**TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment**
 
 Shicheng Li, Lei Li, **Kun Ouyang**, Shuhuai Ren, Yuanxin Liu, Yuanxing Zhang, Fuzheng Zhang, Lingpeng Kong, Qi Liu, Xu Sun
 
