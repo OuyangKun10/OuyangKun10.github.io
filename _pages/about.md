@@ -47,6 +47,9 @@ Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, 
 
 Shicheng Li, Lei Li, **Kun Ouyang**, Shuhuai Ren, Yuanxin Liu, Yuanxing Zhang, Fuzheng Zhang, Lingpeng Kong, Qi Liu, Xu Sun
 
+[TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/abs/2504.17343)
+
+Linli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, **Kun Ouyang**, Lean Wang, Shicheng Li, Sida Li, Lingpeng Kong, Qi Liu, Yuanxing Zhang, Xu Sun
   
 # 📝 Publications 
 
