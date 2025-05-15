@@ -28,20 +28,14 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 
 # 🔥 News
+- *2025.05* &nbsp;🎉🎉 Two papers got accepted by ACL 2025. 
 - *2024.12* &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
-- *2023.05* &nbsp;🎉🎉 One paper got accepted by ACL 2023 (main conference). 
+- *2023.05* &nbsp;🎉🎉 One paper got accepted by ACL 2023. 
 
 # 📝 Preprints
 
-  
-[PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](https://arxiv.org/pdf/2412.11906?)
-
-**Kun Ouyang**, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
 
 
-[Generative Frame Sampler for Long Video Understanding](https://arxiv.org/html/2503.09146v1)
-
-Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, Xu Sun, Junnan Li
 
 [TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment](https://arxiv.org/abs/2503.16929)
 
@@ -53,24 +47,25 @@ Linli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, **Kun Ou
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEAM</div><img src='images/acl_2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
+[PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](https://arxiv.org/pdf/2412.11906?) **ACL 2025**
 
-Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
+**Kun Ouyang**, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDGE</div><img src='images/tmm_01.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+[Generative Frame Sampler for Long Video Understanding](https://arxiv.org/html/2503.09146v1) **ACL 2025** (findings)
+
+Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, Xu Sun, Junnan Li
+
+
 
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
 
 **Kun Ouyang**, Liqiang Jing, Xuemeng Song, Meng Liu, Yupeng Hu, Liqiang Nie
 
+[Multi-source semantic graph-based multimodal sarcasm explanation generation](https://aclanthology.org/2023.acl-long.635.pdf) **ACL 2023**
 
-</div>
-</div>
-
+Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
 
 # 📖 Educations
