@@ -66,7 +66,7 @@ Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, 
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
-📝 Technical Report
+# 📝 Technical Report
 
 [Kimi-vl technical report](https://arxiv.org/pdf/2504.07491?)
 
