@@ -58,7 +58,6 @@ Linli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, **Kun Ou
 Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, Xu Sun, Junnan Li
 
 
-
 [Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue](https://arxiv.org/pdf/2402.03658) **IEEE TMM**
 
 **Kun Ouyang**, Liqiang Jing, Xuemeng Song, Meng Liu, Yupeng Hu, Liqiang Nie
@@ -67,6 +66,11 @@ Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, 
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
+📝 Technical Report
+
+[Kimi-vl technical report](https://arxiv.org/pdf/2504.07491?)
+
+[Github](https://github.com/MoonshotAI/Kimi-VL) nearly 1k stars
 
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
