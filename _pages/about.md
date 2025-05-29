@@ -35,7 +35,17 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 # 📝 Preprints
 
 
+**VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?**
 
+Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
+
+[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://doi.org/10.48550/arXiv.2504.01805)
+
+**Kun Ouyang**, Yuanxin Liu, Haoning Wu, Yi Liu, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
+
+**WONDER: Weight-Adaptive Optimization with Data Selection for Multimodal Reasoning**
+
+Yi Liu, Shicheng Li, Yuanxin Liu, **Kun Ouyang**, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
 
 [TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment](https://arxiv.org/abs/2503.16929)
 
