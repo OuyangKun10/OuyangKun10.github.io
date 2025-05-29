@@ -80,6 +80,10 @@ Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
 [Kimi-vl technical report](https://arxiv.org/abs/2504.07491)
 
+# ✨ Reviewer
+
+ACM MM 2025; ICLR 2025
+
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
 - *2020.09 - 2024.06*, Artificial Intelligence, School of Computer Science and Technology, Shandong University. 
