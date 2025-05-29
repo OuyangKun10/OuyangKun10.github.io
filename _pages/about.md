@@ -39,7 +39,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
 
-[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://doi.org/10.48550/arXiv.2504.01805) [Project](https://github.com/OuyangKun10/SpaceR)
+[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://doi.org/10.48550/arXiv.2504.01805) [[Project](https://github.com/OuyangKun10/SpaceR)]
 
 **Kun Ouyang**, Yuanxin Liu, Haoning Wu, Yi Liu, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
 
