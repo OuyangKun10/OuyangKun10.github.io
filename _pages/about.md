@@ -28,6 +28,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 
 # 🔥 News
+- *2025.07* &nbsp;🎉🎉 One paper got accepted by ACM MM 2025. 
 - *2025.05* &nbsp;🎉🎉 Two papers got accepted by ACL 2025. 
 - *2024.12* &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
 - *2023.05* &nbsp;🎉🎉 One paper got accepted by ACL 2023. 
@@ -35,7 +36,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 # 📝 Preprints
 
 
-**VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?**
+(VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?)[https://arxiv.org/pdf/2505.23359]
 
 Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
 
@@ -51,12 +52,12 @@ Yi Liu, Shicheng Li, Yuanxin Liu, **Kun Ouyang**, Hao Zhou, Fandong Meng, Jie Zh
 
 Shicheng Li, Lei Li, **Kun Ouyang**, Shuhuai Ren, Yuanxin Liu, Yuanxing Zhang, Fuzheng Zhang, Lingpeng Kong, Qi Liu, Xu Sun
 
-[TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/abs/2504.17343)
-
-Linli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, **Kun Ouyang**, Lean Wang, Shicheng Li, Sida Li, Lingpeng Kong, Qi Liu, Yuanxing Zhang, Xu Sun
   
 # 📝 Publications 
 
+[TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/abs/2504.17343) **ACM MM 2025**
+
+Linli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, **Kun Ouyang**, Lean Wang, Shicheng Li, Sida Li, Lingpeng Kong, Qi Liu, Yuanxing Zhang, Xu Sun
 
 [PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension](https://arxiv.org/pdf/2412.11906?) **ACL 2025**
 
