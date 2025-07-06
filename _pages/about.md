@@ -36,7 +36,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 # 📝 Preprints
 
 
-(VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?)[https://arxiv.org/pdf/2505.23359]
+[VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359)
 
 Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
 
