@@ -30,8 +30,6 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 # 🔥 News
 - *2025.07* &nbsp;🎉🎉 One paper got accepted by ACM MM 2025. 
 - *2025.05* &nbsp;🎉🎉 Two papers got accepted by ACL 2025. 
-- *2024.12* &nbsp;🎉🎉 One paper got accepted by IEEE TMM. 
-- *2023.05* &nbsp;🎉🎉 One paper got accepted by ACL 2023. 
 
 # 📝 Preprints
 
