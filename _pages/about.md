@@ -19,11 +19,11 @@ redirect_from:
 
 
 
-I am a **first** year Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), with a solid foundation in mathematics, strong learning ability, excellent competition results and rich research experience, advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
+I am a **second** year Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
 
-My research interests include NLP, LLM, quantitative finance and multimodal learning.
+My research interests include MLLMs, Video understanding & reasoning.
 
-I am looking for research collaborations in the field of Multimodal NLP and Video Understanding, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
+I am looking for research collaborations in the field of Multimodal NLP and Video Understanding/Reasoning, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
 
 
 
@@ -77,9 +77,7 @@ Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, 
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
-# 📝 Technical report 
 
-[Kimi-vl technical report](https://arxiv.org/abs/2504.07491)
 
 # ✨ Reviewer
 
