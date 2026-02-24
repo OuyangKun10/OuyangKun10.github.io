@@ -28,30 +28,31 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 
 # 🔥 News
+- *2026.01* &nbsp;🎉🎉 One paper got accepted by ICLR 2026. 
+- *2025.11* &nbsp;🎉🎉 One paper got accepted by AAAI 2026. 
 - *2025.07* &nbsp;🎉🎉 One paper got accepted by ACM MM 2025. 
 - *2025.05* &nbsp;🎉🎉 Two papers got accepted by ACL 2025. 
 
 # 📝 Preprints
 
 
-[VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359)
-
-Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
-
-[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://doi.org/10.48550/arXiv.2504.01805) [[Project](https://github.com/OuyangKun10/SpaceR)]
-
-**Kun Ouyang**, Yuanxin Liu, Haoning Wu, Yi Liu, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
-
 **WONDER: Weight-Adaptive Optimization with Data Selection for Multimodal Reasoning**
 
 Yi Liu, Shicheng Li, Yuanxin Liu, **Kun Ouyang**, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
 
-[TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment](https://arxiv.org/abs/2503.16929)
-
-Shicheng Li, Lei Li, **Kun Ouyang**, Shuhuai Ren, Yuanxin Liu, Yuanxing Zhang, Fuzheng Zhang, Lingpeng Kong, Qi Liu, Xu Sun
 
   
 # 📝 Publications 
+
+[VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359) **ICLR 2026**
+
+Yuanxin Liu, **Kun Ouyang**, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, Yan Zhong, Y. Charles, Xinyu Zhou, Xu Sun
+
+
+[TEMPO: Temporal Preference Optimization of Video LLMs via Difficulty Scheduling and Pre-SFT Alignment](https://arxiv.org/abs/2503.16929) **AAAI 2026**
+
+Shicheng Li, Lei Li, **Kun Ouyang**, Shuhuai Ren, Yuanxin Liu, Yuanxing Zhang, Fuzheng Zhang, Lingpeng Kong, Qi Liu, Xu Sun
+
 
 [TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/abs/2504.17343) **ACM MM 2025**
 
@@ -75,11 +76,20 @@ Linli Yao, Haoning Wu, **Kun Ouyang**, Yuanxing Zhang, Caiming Xiong, Bei Chen, 
 
 Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
+# 📖 Technical report
 
+[Kimi-vl technical report](https://arxiv.org/pdf/2504.07491) **Core Contributor**
+
+[Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/pdf/2602.02276) **Contributor**
+
+
+[SpaceR: Reinforcing MLLMs in Video Spatial Reasoning](https://doi.org/10.48550/arXiv.2504.01805) [[Project](https://github.com/OuyangKun10/SpaceR)]
+
+**Kun Ouyang**, Yuanxin Liu, Haoning Wu, Yi Liu, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
 
 # ✨ Reviewer
 
-ACM MM 2025; ICLR 2025
+ACM MM 2025, 2026; ICLR 2025; CVPR 2026; ICML 2026
 
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
