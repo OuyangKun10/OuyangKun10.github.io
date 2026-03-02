@@ -23,7 +23,7 @@ I am a **second** year Ph.D. student at Language Computing and Machine Learning 
 
 My research interests include MLLMs, Video understanding & reasoning.
 
-I am looking for research collaborations in the field of Multimodal NLP and Video Understanding/Reasoning, please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
+I am actively seeking **internship** opportunities focused on post-training for Multimodal Large Language Models (MLLMs), particularly in video understanding & reasoning. I am also open to research collaborations in video generation and video understanding/reasoning. Please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
 
 
 
