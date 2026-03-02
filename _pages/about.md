@@ -36,12 +36,13 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 # 📝 Preprints
 
-
 **WONDER: Weight-Adaptive Optimization with Data Selection for Multimodal Reasoning**
 
-Yi Liu, Shicheng Li, Yuanxin Liu, **Kun Ouyang**, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
+**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**
 
+**TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions**
 
+**VideoForest: Fostering Generative Video Reasoning for Spatial Planning**
   
 # 📝 Publications 
 
