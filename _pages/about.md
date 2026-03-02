@@ -28,6 +28,7 @@ I am looking for research collaborations in the field of Multimodal NLP and Vide
 
 
 # 🔥 News
+- *2026.02* &nbsp;🎉🎉 One paper got accepted by CVPR 2026. 
 - *2026.01* &nbsp;🎉🎉 One paper got accepted by ICLR 2026. 
 - *2025.11* &nbsp;🎉🎉 One paper got accepted by AAAI 2026. 
 - *2025.07* &nbsp;🎉🎉 One paper got accepted by ACM MM 2025. 
@@ -43,6 +44,10 @@ Yi Liu, Shicheng Li, Yuanxin Liu, **Kun Ouyang**, Hao Zhou, Fandong Meng, Jie Zh
 
   
 # 📝 Publications 
+
+[Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470v2) **CVPR 2026**
+
+**Kun Ouyang**, Yuanxin Liu, Linli Yao, Yishuo Cai, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
 
 [VIDEOREASONBENCH: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359) **ICLR 2026**
 
