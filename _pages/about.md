@@ -28,6 +28,7 @@ I am actively seeking **internship** opportunities focused on post-training for 
 
 
 # 🔥 News
+- *2026.05* &nbsp;🎉🎉 Three papers got accepted by ICML 2026. 
 - *2026.02* &nbsp;🎉🎉 One paper got accepted by CVPR 2026. 
 - *2026.01* &nbsp;🎉🎉 One paper got accepted by ICLR 2026. 
 - *2025.11* &nbsp;🎉🎉 One paper got accepted by AAAI 2026. 
