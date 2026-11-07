@@ -19,11 +19,18 @@ redirect_from:
 
 
 
-I am a **second** year Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
+I am a **third** year Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
 
-My research interests include MLLMs, Video understanding & reasoning.
+My primary research interest lies in scaling mid-training for Multimodal Large Language Models (MLLMs), alongside exploring new directions in MLLM post-training.
 
-I am actively seeking **internship** opportunities focused on post-training for Multimodal Large Language Models (MLLMs), particularly in video understanding & reasoning. I am also open to research collaborations in video generation and video understanding/reasoning. Please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
+I am always open to research collaborations, particularly in Visual Perception and Reasoning.
+
+Currently, I am especially interested in:
+- Vibe Game and interactive visual experiences
+- AI Co-work (e.g., CAD and Blender)
+- Ego-video understanding for Embodied AI
+  
+Please feel free to contact me at [Email](kunouyang10@gmail.com) kunouyang10**AT**gmail**DOT**com.
 
 
 
@@ -94,9 +101,12 @@ Liqiang Jing, Xuemeng Song, **Kun Ouyang**, Mengzhao Jia, Liqiang Nie.
 
 **Kun Ouyang**, Yuanxin Liu, Haoning Wu, Yi Liu, Hao Zhou, Jie Zhou, Fandong Meng, Xu Sun
 
+[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) [Project](https://mcg-nju.github.io/VideoChat3/)
+
+
 # ✨ Reviewer
 
-ACM MM 2025, 2026; ICLR 2025; CVPR 2026; ICML 2026
+ACM MM 2025, 2026; ICLR 2025; CVPR 2026; ICML 2026; AAAI 2027
 
 # 📖 Educations
 - *2024.09 - 2029.06 (expected)*, School of Computer Science, Peking University.
@@ -104,7 +114,9 @@ ACM MM 2025, 2026; ICLR 2025; CVPR 2026; ICML 2026
 
 # 💻 Internships
 
-- *2024-2025*, Tencent AI lab.
+- *2025.03-2026.09*, MoonShot AI, Multimodal/Scaling Team.
+
+- *2024.09-2025.03*, Tencent WeChat AI lab.
 
 - *2023.10 - 2024.02*, Mizuho Securities Co., Ltd.
 
