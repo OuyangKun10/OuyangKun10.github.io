@@ -21,10 +21,9 @@ redirect_from:
 
 I am a **third** year Ph.D. student at Language Computing and Machine Learning Group ([LANCO](https://lancopku.github.io/)), Institute of Computational Linguistics (**State Key Laboratory for Multimedia Information Processing**) ([icl](http://icl.pku.edu.cn/)), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) without entrance examination, supervised by Prof. [Xu Sun](https://xusun.org/). Before that, I got a B.E. degree from [School of Computer Science and Technology](https://www.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), advised by Prof. [Xuemeng Song](https://xuemengsong.github.io/).
 
-My primary research interest lies in scaling mid-training for Multimodal Large Language Models (MLLMs), alongside exploring new directions in MLLM post-training.
+My primary research interest lies in scaling mid-training for Multimodal Large Language Models (MLLMs), particularly in Visual Perception and Reasoning. 
 
-I am always open to research collaborations, particularly in Visual Perception and Reasoning.
-
+I also explore new directions in MLLM post-training. I am always open to research collaborations.
 Currently, I am especially interested in:
 - Vibe Game and interactive visual experiences
 - AI Co-work (e.g., CAD and Blender)
